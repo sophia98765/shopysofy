@@ -1,2 +1,0 @@
-# shopysofy
-shopysofy project
